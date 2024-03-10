@@ -14,6 +14,7 @@ Favicon https://favicon.io/emoji-favicons/lizard/
 
 ## Demos
 
-<video src="./video-01.mp4" width="350" controls></video>
 
-<video src="./video-02.mp4" width="350" controls></video>
+![Desktop](./video-01.gif)
+
+![Mobile](./video-02.gif)
