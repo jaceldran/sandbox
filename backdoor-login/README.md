@@ -1,6 +1,6 @@
 # Login backdoor
 
-Formulario de login para un  backend remoto con animación de entrada.
+Formulario de login responsive para un backend remoto con animación de entrada.
 
 ## Hecho con
 
