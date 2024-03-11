@@ -128,7 +128,7 @@
 
     <script>
         const API_LOGIN_ENDPOINT = "https://backend.local/api/login";
-        const URL_AUTH_OK = "./auth-ok.html";
+        const AUTH_OK_URL = "./auth-ok.html";
         let $box, $form, $icon;
 
         document.addEventListener("DOMContentLoaded", (event) => {
@@ -177,7 +177,7 @@
                 onAuthOk(authResponse);
                 slideDoor();
                 setTimeout(() => { openDoor(); }, 600)
-                setTimeout(() => { location.href = URL_AUTH_OK; }, 1500)
+                setTimeout(() => { location.href = AUTH_OK_URL; }, 1500)
             }
         }
 

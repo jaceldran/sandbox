@@ -4,17 +4,22 @@ Formulario de login para un  backend remoto con animación de entrada.
 
 ## Hecho con
 
-Tailwind
+Tailwind.
 
-Vanilla js
+Vanilla js.
+
+Vanilla css.
+
+## Características
 
 Responsive.
 
-Favicon https://favicon.io/emoji-favicons/lizard/
-
-## Demos
-
-
+### Desktop
 ![Desktop](./video-01.gif)
 
+### Mobile
 ![Mobile](./video-02.gif)
+
+## Créditos
+
+Favicon https://favicon.io/emoji-favicons/lizard/
